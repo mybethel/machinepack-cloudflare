@@ -1,0 +1,32 @@
+{
+  "name": "machinepack-cloudflare",
+  "version": "0.1.0",
+  "description": "Works with the Cloudflare API.",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "Cloudflare",
+    "machines",
+    "machinepack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^3.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "Cloudflare",
+    "machineDir": "machines/",
+    "machines": [
+      "add-dns-record",
+      "delete-dns-record",
+      "edit-dns-record"
+    ]
+  }
+}
