@@ -2,6 +2,10 @@
   "name": "machinepack-cloudflare",
   "version": "0.1.0",
   "description": "Works with the Cloudflare API.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mybethel/machinepack-cloudflare.git"
+  },
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
   },

@@ -9,7 +9,7 @@
 Works with the Cloudflare API.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-cloudflare.svg)](http://badge.fury.io/js/machinepack-cloudflare) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-cloudflare.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-cloudflare)
+## Installation
 
 ```sh
 $ npm install machinepack-cloudflare
