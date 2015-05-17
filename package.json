@@ -26,6 +26,7 @@
   },
   "machinepack": {
     "friendlyName": "Cloudflare",
+    "iconSrc": "https://raw.githubusercontent.com/mybethel/machinepack-cloudflare/master/machinepack_cloudflare.png",
     "machineDir": "machines/",
     "machines": [
       "add-dns-record",
