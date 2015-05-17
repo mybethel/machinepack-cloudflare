@@ -30,7 +30,8 @@
     "machines": [
       "add-dns-record",
       "delete-dns-record",
-      "edit-dns-record"
+      "edit-dns-record",
+      "stats"
     ]
   }
 }

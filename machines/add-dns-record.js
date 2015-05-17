@@ -1,6 +1,7 @@
 module.exports = {
   friendlyName: 'Add DNS record',
   description: 'Create a DNS record for a zone',
+  moreInfoUrl: 'https://www.cloudflare.com/docs/client-api.html#s5.1',
   inputs: {
     token: {
       example: '8afbe6dea02407989af4dd4c97bb6e25',

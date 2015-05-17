@@ -1,6 +1,7 @@
 module.exports = {
   friendlyName: 'Delete DNS record',
-  description: 'Delete a record for a domain.',
+  description: 'Delete a record for a domain',
+  moreInfoUrl: 'https://www.cloudflare.com/docs/client-api.html#s5.3',
   inputs: {
     token: {
       example: '8afbe6dea02407989af4dd4c97bb6e25',
